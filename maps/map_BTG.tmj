@@ -2385,17 +2385,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":20,
          "firstgid":3160,
-         "image":"..\/tilesets\/nomes esquadroes.png",
-         "imageheight":320,
-         "imagewidth":640,
-         "margin":0,
-         "name":"nomes esquadroes",
-         "spacing":0,
-         "tilecount":200,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"Shark Attack.tsx"
         }],
  "tilewidth":32,
  "type":"map",
