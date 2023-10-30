@@ -2863,19 +2863,14 @@
                  "name":"Sala Leste",
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_Mjg2YTBjMzAtNmE4OC00NjNkLTg1MTMtMzFkODU1M2NlMDhm%40thread.v2\/0?context=%7b%22Tid%22%3a%22ee45b4b8-c04d-419e-96e0-684b8b4cf977%22%2c%22Oid%22%3a%22a008e7c4-e530-4f09-a705-d1ab68f975c0%22%7d"
+                         "value":"Sala Leste"
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Esta sala est\u00e1 integrada ao Teams. Ao pressionar a tecla ESPA\u00c7O ser\u00e1 aberta uma nova janela que redirecionar\u00e1 ao aplicativo Teams."
+                         "name":"jitsiWidth",
+                         "type":"int",
+                         "value":100
                         }],
                  "rotation":0,
                  "type":"area",
