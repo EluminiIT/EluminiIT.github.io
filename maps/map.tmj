@@ -4987,19 +4987,14 @@
                  "name":"Sala Leste",
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_Mjg2YTBjMzAtNmE4OC00NjNkLTg1MTMtMzFkODU1M2NlMDhm%40thread.v2\/0?context=%7b%22Tid%22%3a%22ee45b4b8-c04d-419e-96e0-684b8b4cf977%22%2c%22Oid%22%3a%22a008e7c4-e530-4f09-a705-d1ab68f975c0%22%7d"
+                         "value":"Sala Leste"
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Esta sala est\u00e1 integrada ao Teams. Ao pressionar a tecla ESPA\u00c7O ser\u00e1 aberta uma nova janela que redirecionar\u00e1 ao aplicativo Teams."
+                         "name":"jitsiWidth",
+                         "type":"int",
+                         "value":100
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5029,6 +5024,50 @@
                  "width":608,
                  "x":32.5,
                  "y":1114.5
+                }, 
+                {
+                 "height":515,
+                 "id":25,
+                 "name":"Sala Reuni\u00e3o Principal",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Sala Reuni\u00e3o Principal"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"int",
+                         "value":100
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":833,
+                 "x":31,
+                 "y":31
+                }, 
+                {
+                 "height":141,
+                 "id":27,
+                 "name":"Sala Reuni\u00e3o Menor",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Sala Reuni\u00e3o Menor"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"int",
+                         "value":100
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":444,
+                 "x":1059,
+                 "y":627
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5380,7 +5419,7 @@
          "y":0
         }],
  "nextlayerid":132,
- "nextobjectid":25,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
