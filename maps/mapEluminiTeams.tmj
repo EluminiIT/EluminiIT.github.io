@@ -6807,7 +6807,7 @@
                 {
                  "name":"tag",
                  "type":"string",
-                 "value":"user"
+                 "value":"name"
                 }, 
                 {
                  "name":"zone",
