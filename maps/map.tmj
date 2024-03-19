@@ -6567,6 +6567,38 @@
                  "width":317.307348474885,
                  "x":2560,
                  "y":1442
+                }, 
+                {
+                 "height":264,
+                 "id":43,
+                 "name":"Sala Lobby",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"www.google.com"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Bem vindo ao WorkIn Elumini. Por favor, caso seja um visitante aguarde at\u00e9 que venham lhe receber."
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":854,
+                 "x":1655,
+                 "y":78
                 }],
          "opacity":1,
          "properties":[
@@ -7304,8 +7336,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":154,
- "nextobjectid":37,
+ "nextlayerid":155,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "properties":[
         {
