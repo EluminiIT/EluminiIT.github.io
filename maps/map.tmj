@@ -6294,7 +6294,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":315,
+                 "height":379,
                  "id":14,
                  "name":"silentZone",
                  "properties":[
@@ -6306,26 +6306,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":639,
-                 "x":736,
-                 "y":2370
-                }, 
-                {
-                 "height":317,
-                 "id":18,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":639,
-                 "x":1826,
-                 "y":2370
+                 "width":1919,
+                 "x":642,
+                 "y":2306
                 }, 
                 {
                  "height":324,
@@ -6488,7 +6471,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Sala Reuni\u00e3o Menor"
+                         "value":"Sala Shark Attack"
                         }, 
                         {
                          "name":"jitsiWidth",
@@ -6510,7 +6493,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Sala Reuni\u00e3o Menor"
+                         "value":"Sala Golden Falcon"
                         }, 
                         {
                          "name":"jitsiWidth",
@@ -6532,7 +6515,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Sala Reuni\u00e3o Menor"
+                         "value":"Sala Black Dogs"
                         }, 
                         {
                          "name":"jitsiWidth",
@@ -6554,7 +6537,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Sala Reuni\u00e3o Menor"
+                         "value":"Sala Caravela Portuguesa"
                         }, 
                         {
                          "name":"jitsiWidth",
