@@ -6630,6 +6630,28 @@
                  "width":421.667,
                  "x":1693.1665,
                  "y":574.500166666667
+                }, 
+                {
+                 "height":280.685838731725,
+                 "id":50,
+                 "name":"Sala Marketing",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Sala Marketing"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"int",
+                         "value":100
+                        }],
+                 "rotation":359.712,
+                 "type":"area",
+                 "visible":true,
+                 "width":334.593754441001,
+                 "x":310.6375,
+                 "y":1424.7675
                 }],
          "opacity":1,
          "properties":[
@@ -7273,7 +7295,7 @@
          "y":0
         }],
  "nextlayerid":159,
- "nextobjectid":50,
+ "nextobjectid":51,
  "orientation":"orthogonal",
  "properties":[
         {
