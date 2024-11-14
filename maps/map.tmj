@@ -8310,6 +8310,32 @@
         {
          "firstgid":6096,
          "source":"espace.tsx"
+        }, 
+        {
+         "columns":60,
+         "firstgid":8076,
+         "image":"..\/tilesets\/Natal.png",
+         "imageheight":1080,
+         "imagewidth":1920,
+         "margin":0,
+         "name":"Natal",
+         "spacing":0,
+         "tilecount":1980,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":60,
+         "firstgid":10056,
+         "image":"..\/tilesets\/espace.png",
+         "imageheight":1080,
+         "imagewidth":1920,
+         "margin":0,
+         "name":"espace",
+         "spacing":0,
+         "tilecount":1980,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
