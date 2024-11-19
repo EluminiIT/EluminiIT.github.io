@@ -8310,7 +8310,7 @@
         {
          "columns":60,
          "firstgid":6096,
-         "image":"..\/tilesets\/espace2.png",
+         "image":"..\/..\/espace2.png",
          "imageheight":1080,
          "imagewidth":1920,
          "margin":0,
