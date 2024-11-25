@@ -8306,7 +8306,7 @@
         {
          "columns":60,
          "firstgid":4116,
-         "image":"..\/tilesets\/espace2.png",
+         "image":"espace2.png",
          "imageheight":1080,
          "imagewidth":1920,
          "margin":0,
